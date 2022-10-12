@@ -1,7 +1,6 @@
 - label: Legal
   items:
-    - name: Terms of Service
+    - name: Terms and Conditions
       link: /legal/terms-and-conditions/
-    - name: Privacy Notice
+    - name: Privacy Policy
       link: /legal/privacy-policy/
-    - name: Privacy Choices
