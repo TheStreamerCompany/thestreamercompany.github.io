@@ -1,0 +1,52 @@
+- label: Legal
+  items:
+    - name: Terms of Service
+      link: /legal/terms-of-service/
+    - name: Terms of Sale
+      link: /legal/terms-of-sale/
+    - name:  Community Guidelines
+      link: /community-guidelines/
+    - name: Privacy Notice
+      link: /legal/privacy-notice/
+    - name: Privacy Choices
+      link: /legal/privacy-choices/
+    - name: DMCA Guidelines
+      link: /legal/dmca-guidelines/
+    - name: Music Guidelines
+      link: /legal/community-guidelines/music/
+    - name: Trademark Policy
+      link: /legal/trademark-policy/
+    - name: Trademark Guidelines
+      link: /legal/trademark/
+    - name: Account Usernames and Display Names Policy
+      link: /legal/Usernames/
+    - name: Accessibility Statement
+      link: /legal/accessibility/
+    - name: Developer Agreement
+      link: /legal/developer-agreement/
+    - name: Affiliate Program Agreement
+      link: /legal/affiliate-agreement/
+    - name: Supplemental Fees Statement
+      link: /legal/supplemental-fees-statement/
+    - name: Bits Acceptable Use Policy
+      link: /legal/bits-acceptable-use/
+    - name: Channel Points Acceptable Use Policy
+      link: /legal/channel-points-acceptable-use-policy/
+    - name: Cookie Notice
+      link: /legal/cookie-notice/
+    - name: Ad Choices
+      link: /legal/ad-choices/
+    - name: Photosensitive Seizure Warning
+      link: /legal/seizure-warning/
+    - name: Predictions Terms and Conditions
+      link: /legal/predictions-terms-and-conditions/
+    - name: Events Code Of Conduct
+      link: /legal/events-code-of-conduct/
+    - name: Transparency Report
+      link: /legal/transparency-report/
+    - name: Community Guidelines FAQ
+      link: /legal/community-guidelines#faq/
+    - name: Modern Day Slavery Statement
+      link: /legal/modern-day-slavery-statement/
+    - name: California Privacy Disclosure
+      link: /legal/california-privacy-disclosure/

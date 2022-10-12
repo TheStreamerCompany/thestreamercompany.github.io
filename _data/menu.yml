@@ -1,8 +1,8 @@
 - label: Example Menu
   items:
-    - name: Home
+    - name: Inicio
       link: /
-    - name: Pages
+    - name: Páginas
       link: /#
       items:
         - name: Landing Page With Callouts
