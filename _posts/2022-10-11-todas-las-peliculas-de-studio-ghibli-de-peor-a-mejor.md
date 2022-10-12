@@ -26,7 +26,7 @@ Hablamos de obras únicas, para todo tipo de público, repletas de grandes ense�
 
 ### Earwig y la bruja (Goro Miyazaki, 2020)
 
-![Earwig y la bruja]({{ site.baseurl }}/images/2022-10-11-todas-las-peliculas-de-studio-ghibli-de-peor-a-mejor/earwig-y-la-bruja-1627755425.jpg)
+![Earwig y la bruja]({{ site.baseurl }}/img/2022-10-11-todas-las-peliculas-de-studio-ghibli-de-peor-a-mejor/earwig-y-la-bruja-1627755425.jpg)
 
 Cuando apareció la noticia de que el Studio Ghibli finalmente se lanzaría a realizar un largometraje totalmente digital, todos torcimos el gesto. No obstante, era la primera película del estudio en más de un lustro y el guion lo firmaba el mismísimo Hayao Miyazaki. Sin embargo, a los mandos estaba Goro Miyazaki, el hijo del fundador del Studio y también el director más discutido del mismo, y en Japón se había tratado únicamente de un estreno televisivo. Finalmente, los indicios indicados eran los segundos, los malos. Y no, no es que ‘Earwig y la bruja’ sea una película a evitar, pero desmerece al lado de sus compañeras de estudio. La historia de esta huérfana que está divinamente en su orfanato hasta que la adoptan contra su voluntad tiene bellas ocurrencias pero también resulta repetitiva y se estanca muy pronto. En cuanto a la estética, no podemos decir que el 3D le haya sentado nada bien a Ghibli, especialmente dada la belleza a la que nos tenía acostumbrados su dibujo. Es la más fea y aburrida película del Studio.
 
