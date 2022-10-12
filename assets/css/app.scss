@@ -1,5 +1,13 @@
 ---
 ---
+
+img {
+  height: auto;
+  width: 700px;
+}
+html {
+  background-color: #888;
+}
 $primary: #333333;
 // Import Main CSS file from theme
 @import "main";
