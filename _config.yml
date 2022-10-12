@@ -12,7 +12,7 @@ permalink: pretty
 gh_sponsor: 36095
 #hide_share_buttons: true
 theme_color: '#333333'
-fixed_navbar: top
+fixed_navbar: bottom
 direction: ltr # one of <ltr, rtl, auto>, default: ltr
 
 paginate: 5
