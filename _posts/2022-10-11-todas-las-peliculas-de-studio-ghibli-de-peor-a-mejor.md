@@ -1,11 +1,17 @@
 ---
 layout: post
-title: Todas las películas de Studio Ghibli, de peor a mejor
+title: Todas las películas de Studio Ghibli, de peor a mejor.
+description: How to create a post series with Bulma Clean Theme
 date: 2022-10-11 22:02
 category: Cine
 author: 36095
 tags: [Studio Ghibli, Cine, Top]
 summary: En realidad te aconsejamos ver las 23. Bueno, con 19 quizás valga. Reseñamos todas las películas del estudio Ghibli en un top de peor a mejor.
+hero_image: /2022-10-11-todas-las-peliculas-de-studio-ghibli-de-peor-a-mejor/earwig-y-la-bruja-1627755425.jpg
+image: /2022-10-11-todas-las-peliculas-de-studio-ghibli-de-peor-a-mejor/earwig-y-la-bruja-1627755425.jpg
+hero_height: is-large
+hero_darken: true
+# series: 
 ---
 
 ### En realidad te aconsejamos verlas todas porque son estupendas, pero aquí las ponemos en orden para los que quieran saber cuáles son nuestras favoritas. ¿Coinciden con las tuyas?
@@ -26,7 +32,7 @@ Hablamos de obras únicas, para todo tipo de público, repletas de grandes ense�
 
 ### Earwig y la bruja (Goro Miyazaki, 2020)
 
-![Earwig y la bruja]({{ site.baseurl }}/img/2022-10-11-todas-las-peliculas-de-studio-ghibli-de-peor-a-mejor/earwig-y-la-bruja-1627755425.jpg)
+![Earwig y la bruja](/2022-10-11-todas-las-peliculas-de-studio-ghibli-de-peor-a-mejor/earwig-y-la-bruja-1627755425.jpg)
 
 Cuando apareció la noticia de que el Studio Ghibli finalmente se lanzaría a realizar un largometraje totalmente digital, todos torcimos el gesto. No obstante, era la primera película del estudio en más de un lustro y el guion lo firmaba el mismísimo Hayao Miyazaki. Sin embargo, a los mandos estaba Goro Miyazaki, el hijo del fundador del Studio y también el director más discutido del mismo, y en Japón se había tratado únicamente de un estreno televisivo. Finalmente, los indicios indicados eran los segundos, los malos. Y no, no es que ‘Earwig y la bruja’ sea una película a evitar, pero desmerece al lado de sus compañeras de estudio. La historia de esta huérfana que está divinamente en su orfanato hasta que la adoptan contra su voluntad tiene bellas ocurrencias pero también resulta repetitiva y se estanca muy pronto. En cuanto a la estética, no podemos decir que el 3D le haya sentado nada bien a Ghibli, especialmente dada la belleza a la que nos tenía acostumbrados su dibujo. Es la más fea y aburrida película del Studio.
 

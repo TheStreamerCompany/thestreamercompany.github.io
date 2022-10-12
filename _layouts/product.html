@@ -40,7 +40,7 @@ layout: default
     </div>
 
     <div class="column is-12">
-        <p class="title is-4">Description</p>
+        <p class="title is-4">Descripción</p>
         <div class="content">
             
     
@@ -50,7 +50,7 @@ layout: default
 
     {% if site.data.reviews[page.product_code] %}
     <div class="column is-12">
-        <p class="title is-4">Reviews</p>
+        <p class="title is-4">Reseñas</p>
         {% for review in site.data.reviews[page.product_code] %}
         {% include review.html %}
         {% endfor %}

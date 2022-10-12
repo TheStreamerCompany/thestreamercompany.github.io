@@ -1,6 +1,6 @@
 - name: Docs
   link: /docs/
-- name: Example Pages
+- name: Páginas de ejemplo
   link: /#
   dropdown:
     - name: Landing Page With Callouts
