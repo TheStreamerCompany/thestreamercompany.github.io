@@ -1,10 +1,11 @@
 ---
 layout: page
-# title: Terms of Service
+title: Privacy Notice
 menubar: legal_menu
 show_sidebar: false
-show_title: false
+hide_hero: true
 ---
+
 ##### Last modified on 08/15/2022
 
 ## Privacy Notice
