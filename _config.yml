@@ -11,9 +11,9 @@ permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: 36095
 #hide_share_buttons: true
-#theme_color: '#eeeeee'
-#fixed_navbar: top
-# direction: one of <ltr, rtl, auto>, default: ltr
+theme_color: '#333333'
+fixed_navbar: top
+direction: ltr # one of <ltr, rtl, auto>, default: ltr
 
 paginate: 5
 paginate_path: "/blog/page:num"
@@ -73,7 +73,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 
-footer_menu: example_footer_menu
+footer_menu: footer_menu
 
 collections:
   products: 
