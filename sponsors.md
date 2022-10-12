@@ -2,7 +2,7 @@
 layout: page
 title: Sponsors Page
 subtitle: An example sponsors page
-sponsors: example_sponsors
+sponsors: sponsors
 show_sidebar: false
 ---
 

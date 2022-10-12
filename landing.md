@@ -6,7 +6,7 @@ hero_height: is-large
 hero_link: /page-1/
 hero_link_text: Example Call To Action
 show_sidebar: false
-callouts: example_callouts
+callouts: callouts
 ---
 
 This is an example landing page. It is built using the Hero and Callouts.
