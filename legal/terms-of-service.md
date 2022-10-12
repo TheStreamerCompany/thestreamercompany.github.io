@@ -1,11 +1,14 @@
 ---
 layout: page
-title: Terms of Service
+# title: Terms of Service
 menubar: legal_menu
 show_sidebar: false
+show_title: false
 ---
 
-#### Last modified on October 12, 2022
+## Terms of Service
+
+##### Last modified on October 12, 2022
 
 1. [Introduction; Your Agreement to these Terms of Service](#1-introduction-your-agreement-to-these-terms-of-service)
 
