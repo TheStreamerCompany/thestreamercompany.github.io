@@ -5,7 +5,7 @@ tagline: The Streamer Company
 email: thestreamercompany@gmail.com
 description: >
   The site of The Streamer Company
-baseurl: "/"
+baseurl: ""
 url: "https://thestreamercompany.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
@@ -68,7 +68,7 @@ defaults:
     values:
       author: "36095"
       layout: post
-      image: https://via.placeholder.com/1200x800
+      image: /img/product-placeholder.jpg
       show_sidebar: true
 
 markdown: kramdown
@@ -80,5 +80,5 @@ collections:
   products: 
     output: true
     layout: product
-    image: https://via.placeholder.com/800x600
+    image: /img/product-placeholder.jpg
     show_sidebar: false

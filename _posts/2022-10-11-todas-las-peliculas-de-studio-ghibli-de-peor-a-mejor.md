@@ -5,7 +5,7 @@ description: How to create a post series with Bulma Clean Theme
 date: 2022-10-11 22:02
 category: Cine
 author: 36095
-tags: [Studio Ghibli, Cine, Top]
+tags: [Studio Ghibli, Cine, Top, 36095]
 summary: En realidad te aconsejamos ver las 23. Bueno, con 19 quizás valga. Reseñamos todas las películas del estudio Ghibli en un top de peor a mejor.
 hero_image: /img/2022-10-11-todas-las-peliculas-de-studio-ghibli-de-peor-a-mejor/La-princesa-Mononoke-1997.jpg
 image: /img/2022-10-11-todas-las-peliculas-de-studio-ghibli-de-peor-a-mejor/La-princesa-Mononoke-1997.jpg

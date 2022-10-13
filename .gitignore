@@ -19,3 +19,4 @@ package-lock.json
 changelog.txt
 screenshot.png
 yarn.lock
+.jekyll-cache
